@@ -1,0 +1,15 @@
+[submodule "UOP-COMP1003-Converter"]
+	path = UOP-COMP1003-Converter
+	url = https://github.com/lewmilburn/UOP-COMP1003-Converter
+[submodule "UOP-COMP2002-Tasks"]
+	path = UOP-COMP2002-Tasks
+	url = https://github.com/lewmilburn/UOP-COMP2002-Tasks
+[submodule "UOP-COMP3006-Worksheets"]
+	path = UOP-COMP3006-Worksheets
+	url = https://github.com/lewmilburn/UOP-COMP3006-Worksheets
+[submodule "Embedded-Systems"]
+	path = Embedded-Systems
+	url = https://github.com/lewmilburn/Embedded-Systems
+[submodule "comp3006-ws9-ex3"]
+	path = comp3006-ws9-ex3
+	url = https://github.com/lewmilburn/comp3006-ws9-ex3
