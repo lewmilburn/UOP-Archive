@@ -25,3 +25,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/lewmilburn/vault.git
+[submodule "scalpel-heic-carver"]
+	path = scalpel-heic-carver
+	url = https://github.com/lewmilburn/scalpel-heic-carver
