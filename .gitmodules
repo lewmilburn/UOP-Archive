@@ -19,3 +19,9 @@
 [submodule "CoreBlue-BoatCo"]
 	path = CoreBlue-BoatCo
 	url = https://github.com/lewmilburn/CoreBlue-BoatCo.git
+[submodule "uop-hotel-app"]
+	path = uop-hotel-app
+	url = https://github.com/lewmilburn/uop-hotel-app.git
+[submodule "vault"]
+	path = vault
+	url = https://github.com/lewmilburn/vault.git
