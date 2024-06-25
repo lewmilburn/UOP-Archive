@@ -1,4 +1,5 @@
 # Lewis Milburn's University of Plymouth Code Archive
+> :warning: **Many of these reporistories are no longer updated.** Please check the readme file of the repositories before you use code from them.
 Archived code from my UoP Coursework, Assessments and Tasks.
 
 | Project                 | Language          | Description                                                          |
@@ -10,3 +11,6 @@ Archived code from my UoP Coursework, Assessments and Tasks.
 | UOP-COMP2002-Tasks      | Python            | Non-assessed programming tasks from my COMP2002 module.              |
 | UOP-COMP3006-Worksheets | HTML, JS, TS, CSS | Non-assessed programming tasks from my COMP3006 module.              |
 | UOP-COMP3006-WS9-EX3    | JS                | Non-assessed programming task Workshop 9 Task 3 my COMP3006 module.  |
+| uop-hotel-app           | JS, Node.JS       | Full stack development coursework.                                   |
+| vault                   | PHP, JS, HTML, CSS| Final Year Project.                                                  |
+| scalpel-heic-carver     | PHP, JS, HTML, CSS| COMP3012 coursework.                                                  |
