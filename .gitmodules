@@ -16,3 +16,6 @@
 [submodule "UOP-COMP3006-WS9-EX3"]
 	path = UOP-COMP3006-WS9-EX3
 	url = https://github.com/lewmilburn/UOP-COMP3006-WS9-EX3.git
+[submodule "CoreBlue-BoatCo"]
+	path = CoreBlue-BoatCo
+	url = https://github.com/lewmilburn/CoreBlue-BoatCo.git
