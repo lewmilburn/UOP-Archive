@@ -12,5 +12,6 @@ Archived code from my UoP Coursework, Assessments and Tasks.
 | UOP-COMP3006-Worksheets | HTML, JS, TS, CSS | Non-assessed programming tasks from my COMP3006 module.              |
 | UOP-COMP3006-WS9-EX3    | JS                | Non-assessed programming task Workshop 9 Task 3 my COMP3006 module.  |
 | uop-hotel-app           | JS, Node.JS       | Full stack development coursework.                                   |
+| coreblue-boatco         | PHP, Laravel, JS  | Full stack boat marketplace application for an interview at CoreBlue.|
 | vault                   | PHP, JS, HTML, CSS| Final Year Project.                                                  |
-| scalpel-heic-carver     | PHP, JS, HTML, CSS| COMP3012 coursework.                                                  |
+| scalpel-heic-carver     | PHP, JS, HTML, CSS| COMP3012 coursework.                                                 |
