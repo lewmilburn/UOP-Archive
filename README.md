@@ -1,5 +1,8 @@
 # Lewis Milburn's University of Plymouth Code Archive
-> :warning: **Many of these reporistories are no longer updated.** Please check the readme file of the repositories before you use code from them.
+> :warning: **Many of these reporistories are no longer updated.** They may have security risks, bugs, or any other issues!
+
+> :warning: **All code is provided as-is**, no warranty of any kind is provided.
+
 Archived code from my UoP Coursework, Assessments and Tasks.
 
 | Project                 | Language          | Description                                                          |
